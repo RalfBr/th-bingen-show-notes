@@ -1,3 +1,6 @@
+# Show Notes Info 2 TH Bingen
+
+
 Three lectures so far...
 
 1. [Git](01-git.md)
